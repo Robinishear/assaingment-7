@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic film camera highly sought after by collectors.",
+    "currentBidPrice": 2860,
+    "timeLeft": "2 days left",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/6JGfqg8f/Whats-App-Image-2025-04-09-at-8-08-06-AM.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Vintage electric guitar known for its iconic tone and design.",
+    "currentBidPrice": 6700,
+    "timeLeft": "3 days left",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/6c52WYmm/Whats-App-Image-2025-04-09-at-8-08-08-AM.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128k (1984)",
+    "description": "Apple's first Macintosh personal computer, released in 1984.",
+    "currentBidPrice": 4200,
+    "timeLeft": "1 day left",
+    "bidsCount": 21,
+    "image": "https://i.ibb.co.com/1GwsKST6/Whats-App-Image-2025-04-09-at-8-08-07-AM.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Luxury diver's watch with automatic movement and date display.",
+    "currentBidPrice": 8900,
+    "timeLeft": "12 hours left",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/k6c1bQ9z/Whats-App-Image-2025-04-09-at-8-08-08-AM-1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare first edition of the American literary classic.",
+    "currentBidPrice": 12500,
+    "timeLeft": "5 days left",
+    "bidsCount": 17,
+    "image": "https://i.ibb.co.com/F4J0wmn6/Whats-App-Image-2025-04-09-at-8-08-07-AM-1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Iconic leather and plywood lounge chair by Charles and Ray Eames.",
+    "currentBidPrice": 3800,
+    "timeLeft": "8 hours left",
+    "bidsCount": 6,
+    "image": "https://i.ibb.co.com/d0ggrp5Y/Whats-App-Image-2025-04-09-at-8-08-09-AM.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "Rare authenticated artwork by the elusive street artist Banksy.",
+    "currentBidPrice": 24500,
+    "timeLeft": "4 days left",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co.com/HDkV3nG1/Whats-App-Image-2025-04-09-at-8-08-06-AM-2.jpg"
+  }
+]
