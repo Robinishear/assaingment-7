@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <div className="hero left-4  relative w-372 ">
+    <div className="hero left-4  relative w-372 bg-cyan-200">
       <img
         src="https://i.ibb.co.com/hF18HHNc/image.png"
         alt="Leica Camera"

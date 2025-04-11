@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-    <footer className="footer footer-horizontal footer-center shadow bg-amber-50">
+    <footer className="footer footer-horizontal footer-center shadow bg-white">
   
   <div className="flex">
     <a className="text-2xl flex"><p style={{color: 'blue'}}>Auction</p> <p style={{color: "yellow"}}>Gallcry</p></a>
@@ -20,7 +20,7 @@ const Footer = () => {
   </nav>
  
   <aside>
-    <p>{new Date().getFullYear()} © 2025 AuctionHub. All rights reserved.</p>
+    <p>{new Date().getFullYear()} © 2025 AuctionHub. All rights reserved.</p>
   </aside>
 </footer>
        
