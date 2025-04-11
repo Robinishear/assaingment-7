@@ -5,18 +5,15 @@ import Navber from './componets/Navber/Navber'
 import Section from './componets/Section/Section'
 
 export default function App() {
-const sectionPromise = fatchSection(),
 
   return (
     <>
     
     <Navber></Navber>
     <Hero></Hero>
-   <Section fallback="">
-   <Section sectionPromisen={sectionPromise}></Section>
-   </Section>
+   <Section></Section>
+   <Footer></Footer>
   </>
   )
-}
+};
 
-export default App

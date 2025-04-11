@@ -11,11 +11,11 @@ const Hero = () => {
     <div className=" absolute top-15 left-0 p-25">
       <div>
         <h1 className="text-4xl font-bold text-cyan-50 ">Bid on Unique Items from <br /> Around the World</h1>
-        <p className="py-6 text-cyan-50">
-        Discover rare collectibles, luxury goods, and vintage <br /> treasures in our curated auctions
-        </p>
-        <button className="btn rounded-full">Explore Auctions</button>
-      </div>
+         <p className="py-6 text-cyan-50">
+           Discover rare collectibles, luxury goods, and vintage <br /> treasures in our curated auctions
+            </p>
+           <button className="btn rounded-full">Explore Auctions</button>
+       </div>
     </div>
   </div>
   );
